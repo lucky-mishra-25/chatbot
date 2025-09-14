@@ -1,4 +1,4 @@
-### Author: Riya Nakarmi ###
+### Author: Lucky Mishra ###
 ### College Project ###
 
 import random
